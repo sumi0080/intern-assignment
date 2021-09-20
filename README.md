@@ -1,4 +1,36 @@
-# Praktikant opgave
+# Student assignment
+
+The scope of this assignment is to show how much experience you have with the technologies that Dreamplan uses. Spend a maximum of 3 hours on the task and make a pull request, where you describe which smart features you have added.
+
+In order not to spend too much time creating a brand new project,
+I have already made a standard React / Tailwind / NextJs template,
+which is similar to our current Next.js frontend project.
+
+## Task 1 
+Create an account on themoviedb: https://www.themoviedb.org/ and download your apikey as you
+need to download a list of movies via their api.
+
+Make a list on the front page of all the most popular movies right now,
+sort the films by popularity (trending), and show the list in Danish.
+
+Show information such as title, description, image and popularity in the list.
+
+Make a nice design and show your skills using tailwind CSS
+## Task 2
+
+Show details about the individual film on a new Next.js page. 
+
+## Task 3
+
+Make on the movielist a favorite button where the user
+can save his favorites so they are saved on local storage
+
+## Bonus task
+
+Make a link at the top of the front page to a page listing all your favorite movies that have been saved.
+
+------------------------------
+# Studenter opgave
 
 Scopet for denne opgave er at finde ud af hvor meget praktikanten
 ved om de teknologier som Dreamplan bruger.
