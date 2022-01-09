@@ -16,13 +16,17 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "incremental": true
   },
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
-, "src/components/MovieList.js", "src/pages/_app.js", "src/pages/index.js"  ],
+    "**/*.tsx",
+    "src/components/MovieList.js",
+    "src/pages/_app.js",
+    "src/pages/index.js"
+  ],
   "exclude": [
     "node_modules"
   ]
